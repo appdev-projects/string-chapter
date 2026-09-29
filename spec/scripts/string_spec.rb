@@ -1,4 +1,5 @@
 describe "string_multiplication.rb" do
+
   it "should output 'HoHoHo' using String multiplication", points: 1 do
     multiplication_file = "string_multiplication.rb"
     file_contents = File.read(multiplication_file)
